@@ -1,0 +1,28 @@
+.button-nav {
+    background-color: rgb(255, 103, 2) !important;
+    border-radius: 0%;
+  }
+  .sec {
+    background-color: rgb(248, 248, 248);
+  }
+  .welc {
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 30px;
+  }
+  .fw-bold {
+    font-weight: 700 !important;
+  }
+  .element::-webkit-input-placeholder {
+    color: black;
+    font-weight: bold;
+  }
+  .orange-dish{
+    margin-right: 0%;
+  }
+  .logo{
+    float: left;
+  }
+  .nav{
+    float: right;
+  }
